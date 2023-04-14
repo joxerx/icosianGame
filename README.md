@@ -1,4 +1,5 @@
-# Игра Икосиан
+# Icosian Game
+### [Eng About](https://en.wikipedia.org/wiki/Icosian_game)
 Другие названия: Вокруг света, гамильтонова игра
 Реализация игры Икосиан с автопоиском пути на SWI-Prolog
 
